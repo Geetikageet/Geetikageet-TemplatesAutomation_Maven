@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="TestNG(failed)">
+    <classes>
+      <class name="com.MavenTemplates.Automate.ChineseNewYear">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.MavenTemplates.Automate.ChineseNewYear -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+</suite> <!-- Failed suite [Suite] -->
